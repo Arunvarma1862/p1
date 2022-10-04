@@ -19,7 +19,7 @@ public class TestApache6 {
 
 	   // fileinputStream argument
 		
-		File file = new File("C:\\eclipse project\\test\\ExcelFile\\Test1.xlsx");
+		File file = new File("D:\\eclipse project\\test\\ExcelFile\\Test1.xlsx");
 		XSSFWorkbook workbook = new XSSFWorkbook(file);
 		int sheets=workbook.getNumberOfSheets();
 		System.out.println(sheets);

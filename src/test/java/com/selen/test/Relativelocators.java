@@ -29,7 +29,7 @@ public class Relativelocators {
 		  options.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
 		  options.setExperimentalOption("excludeSwitches", Arrays.asList("enable-automation"));*/
 		WebDriver driver = new EdgeDriver(options);
-		
+		// hii
 
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 

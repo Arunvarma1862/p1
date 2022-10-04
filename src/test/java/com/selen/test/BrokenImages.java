@@ -21,6 +21,7 @@ public class BrokenImages {
 
 	//	verifyBrokenImagesUsingSelenium();
 		verifyBrokenImagesUsingjsoup();
+	
 	}
 
 	/*public static void verifyBrokenImagesUsingSelenium() throws Exception {
